@@ -1,0 +1,21 @@
+*{
+    font-family: cursive;
+    width: 200px;
+    margin:auto;
+}
+
+h1{
+    color:aquamarine;
+}
+
+.post{
+    background-color: lavender;
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    margin: 10px;
+}
+
+#footer{
+    color:blueviolet;
+    font-size: 20px;
+}
